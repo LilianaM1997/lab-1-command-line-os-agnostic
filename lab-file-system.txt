@@ -281,15 +281,16 @@ cd ~
 ==========
 27. What's a pathname?
 ----------
-
+Pathname a combination of folder names and slashes, along with the file name and its extension.
 
 
 ==========
 28. What's a directory?
 ----------
-
+diractory are folders.
 
 
 ==========
 29. What's the *absolute* path (full path, starting at root) to your user's Downloads directory?
 ----------
+/c/Users/Lily/downloads
